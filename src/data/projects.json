@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Learn-courses ",
+    "imageSrc": "projects/pro3.png",
+    "description": "This is Learn-courses",
+    "skills": ["HTML5", "CSS3", "JS","Bootstrap"],
+    "demo": "https://sharifothman.github.io/Learn-courses/",
+    "source": "https://github.com/SharifOthman/Learn-courses"
+  },
+  {
+    "title": "school-website",
+    "imageSrc": "projects/pro4.png",
+    "description": "This is school-website",
+    "skills": ["HTML5", "CSS3","JS"],
+    "demo": "https://sharifothman.github.io/school-website/",
+    "source": "https://github.com/SharifOthman/school-website"
+  },
+  {
+    "title": "Game App",
+    "imageSrc": "projects/pro1.png",
+    "description": "This is Game App project",
+    "skills": ["HTML5", "CSS3", "Bootstrap","React"],
+    "demo": "https://sharifothman.github.io/Game-App/",
+    "source": "https://github.com/SharifOthman/Game-App"
+  },
+  {
+    "title": "Travel List",
+    "imageSrc": "projects/pro2.png",
+    "description": "This is Travel List App",
+    "skills": ["HTML5", "CSS3", "Bootstrap","React"],
+    "demo": "https://sharifothman.github.io/Travel-List/",
+    "source": "https://github.com/SharifOthman/Travel-List"
+  }
+]
