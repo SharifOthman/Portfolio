@@ -109,3 +109,20 @@
     align-items: center;
   }
 }
+
+.description {
+  font-size: 30px;
+  font-family: var(--font-roboto);
+  margin-bottom: 52px;
+  opacity: 0; /* Initially hidden */
+  animation: fadeInOut 6s infinite; /* Add animation */
+}
+
+@keyframes fadeInOut {
+  0%, 100% {
+    opacity: 0; /* Start and end with hidden */
+  }
+  20%, 80% {
+    opacity: 1; /* Fully visible in the middle of the animation */
+  }
+}
